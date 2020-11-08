@@ -1,0 +1,13 @@
+E:\minsk\mc\bin\Debug\netcoreapp3.1\mc.exe
+E:\minsk\mc\bin\Debug\netcoreapp3.1\mc.deps.json
+E:\minsk\mc\bin\Debug\netcoreapp3.1\mc.runtimeconfig.json
+E:\minsk\mc\bin\Debug\netcoreapp3.1\mc.runtimeconfig.dev.json
+E:\minsk\mc\bin\Debug\netcoreapp3.1\mc.dll
+E:\minsk\mc\bin\Debug\netcoreapp3.1\mc.pdb
+E:\minsk\mc\obj\Debug\netcoreapp3.1\mc.csprojAssemblyReference.cache
+E:\minsk\mc\obj\Debug\netcoreapp3.1\mc.AssemblyInfoInputs.cache
+E:\minsk\mc\obj\Debug\netcoreapp3.1\mc.AssemblyInfo.cs
+E:\minsk\mc\obj\Debug\netcoreapp3.1\mc.csproj.CoreCompileInputs.cache
+E:\minsk\mc\obj\Debug\netcoreapp3.1\mc.dll
+E:\minsk\mc\obj\Debug\netcoreapp3.1\mc.pdb
+E:\minsk\mc\obj\Debug\netcoreapp3.1\mc.genruntimeconfig.cache
