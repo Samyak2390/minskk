@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "1qu7CstNiq/BUWUaZw46LZtsBWjcZdseN+7MaGnBowQa2pGcr+fh2+nih8bDplfrKtnRq0pSYYD2xwA3X/ur9Q==",
+  "dgSpecHash": "eiS9hjDxWnEhScFxK8UHgsKyYPxzwTq1KjoNlC8y/qqKOh/tACH/Npz0r1Yo0OMKAV/lVXR27qZ27zTQUov+1g==",
   "success": true,
   "projectFilePath": "E:\\minsk\\mc\\mc.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Samyak\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Samyak\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Samyak\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Samyak\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Samyak\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Samyak\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Samyak\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
